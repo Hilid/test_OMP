@@ -1,8 +1,0 @@
- Location of result fd, for every threads
-           0        47402661998608
-           3        47402629984272
-           2        47402645991440
-           1        47402637987856
-           4        47402653995024
- Reference=====>       1000000.00000000     
- Result per threads:
